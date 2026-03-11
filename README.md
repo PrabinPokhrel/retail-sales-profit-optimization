@@ -126,7 +126,6 @@ Some important insights from the analysis:
 
 ## Dashboard Preview
 
-
 ![Sales Overview](Screenshots/sales_overview.png)
 
 ![Profit Analysis](Screenshots/profit_analysis.png)
