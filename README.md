@@ -125,10 +125,15 @@ Some important insights from the analysis:
 ---
 
 ## Dashboard Preview
+### Sales Overview
 
 ![Sales Overview](Retail-Sales-Profit-Optimization/Screenshots/sales_overview.png)
 
+### Profit Analysis
+
 ![Profit Analysis](Retail-Sales-Profit-Optimization/Screenshots/profit_analysis.png)
+
+### Regional Performance
 
 ![Regional Performance](Retail-Sales-Profit-Optimization/Screenshots/regional_performance.png)
 
