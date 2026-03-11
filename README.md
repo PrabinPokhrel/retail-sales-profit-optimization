@@ -126,9 +126,6 @@ Some important insights from the analysis:
 
 ## Dashboard Preview
 
-Add screenshots of your dashboard here.
-
-Example:
 
 ![Sales Overview](Screenshots/sales_overview.png)
 
